@@ -1,0 +1,35 @@
+_repo: The-Irish-Guards-in-the-Great-War-Volume-2-of-2-b-The-Second-Battalion-and-Appendices_72881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2024-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72881'
+language: en
+pgterms:marc904: https://archive.org/details/irishguardsofgre02rudy/page/n9
+pgterms:marc905: 20190124144011kipling
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Tim Lindell, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aGarden City, NY :$bDoubleday, Page & Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Irish Guards in the Great War, Volume 2 (of 2) : $b The Second Battalion
+  and Appendices'
+url: http://www.gutenberg.org/ebooks/72881
